@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Roan James",
@@ -33,12 +40,5 @@
     "title": "Roan James",
     "section": "Contact",
     "text": "Contact\nEmail: Rjames15@ur.rochester.edu\nOffice: Hylan Building 1104\nDepartment: Department of Mathematics, University of Rochester"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   }
 ]
