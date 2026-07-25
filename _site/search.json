@@ -1,45 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Roan James",
     "section": "",
     "text": "University of Rochester\nI am a PhD student in the Department of Mathematics at the University of Rochester, supervised by Professor Arjun Krishnan.\nMy research lies in stochastic analysis, with a particular focus on directed polymers in intermediate disorder and the stochastic heat equation.\nYou can find my CV here CV"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Roan James",
-    "section": "",
-    "text": "I am a PhD student in mathematics at the University of Rochester.  My research is in stochastic analysis, with a particular focus on directed polymers in intermediate disorder and the stochastic heat equation. My advisor is Professor Arjun Krishnan."
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Roan James",
-    "section": "Research interests",
-    "text": "Research interests\n\nDirected polymers in random environments\nStochastic heat equations"
-  },
-  {
-    "objectID": "index.html#current-work",
-    "href": "index.html#current-work",
-    "title": "Roan James",
-    "section": "Current work",
-    "text": "Current work\nMy thesis studies scaling limits of directed polymer models and their connections with stochastic partial differential equations. You can find it here Current State of Thesis\nI completed my undergraduate at the University Of Sheffield, you can view my certifcate here Certificate and an award here TM FLETT ## Contact Rjames15@ur.rochester.edu Hyllan 1104 University of Rochester\nDepartment of Mathematics"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Roan James",
-    "section": "Contact",
-    "text": "Contact\nEmail: Rjames15@ur.rochester.edu\nOffice: Hylan Building 1104\nDepartment: Department of Mathematics, University of Rochester"
   },
   {
     "objectID": "index.html#current-research",
@@ -49,11 +14,11 @@
     "text": "Current Research\nMy thesis studies scaling limits of directed polymer models and their connections with stochastic partial differential equations.\nCurrent State of Thesis"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
+    "objectID": "index.html#undergraduate-education",
+    "href": "index.html#undergraduate-education",
     "title": "Roan James",
-    "section": "Education",
-    "text": "Education\nI completed my undergraduate studies at the University of Sheffield.\nDegree Certificate T. M. Flett Prize"
+    "section": "Undergraduate Education",
+    "text": "Undergraduate Education\nI received a MMath in Mathematics from the University of Sheffield, graduating with First Class Honours. During my final year, I was awarded the T. M. Flett Prize in recognition of achieving the highest marks in Pure Mathematics.\nDegree Certificate T. M. Flett Prize"
   },
   {
     "objectID": "index.html#teaching-and-conferences",
@@ -63,10 +28,17 @@
     "text": "Teaching and Conferences\nDuring my time at the University of Rochester, I have served as a teaching assistant and instructor for a range of undergraduate and graduate courses, and have attended several conferences and summer schools in probability and stochastic analysis.\nA summary of my teaching experience, conference participation, and travel support is available below.\nTeaching and Conferences"
   },
   {
-    "objectID": "index.html#undergraduate-education",
-    "href": "index.html#undergraduate-education",
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
     "title": "Roan James",
-    "section": "Undergraduate Education",
-    "text": "Undergraduate Education\nI received a MMath in Mathematics from the University of Sheffield, graduating with First Class Honours. During my final year, I was awarded the T. M. Flett Prize in recognition of achieving the highest marks in Pure Mathematics.\nDegree Certificate T. M. Flett Prize"
+    "section": "Contact",
+    "text": "Contact\nEmail: Rjames15@ur.rochester.edu\nOffice: Hylan Building 1104\nDepartment: Department of Mathematics, University of Rochester"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
