@@ -1,0 +1,21 @@
+project:
+  type: website
+  resources:
+    - files/thesis.pdf
+
+website:
+  title: "Roan James"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Research.qmd
+        text: Research
+      - href: Teaching.qmd
+        text: Teaching
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
