@@ -27,7 +27,7 @@ You can find my CV here [CV](files/CV.pdf){.btn .btn-outline-primary}
 
 My thesis studies scaling limits of directed polymer models and their connections with stochastic partial differential equations.
 
-[Current State of Thesis](files/thesistwo.pdf){.btn .btn-outline-primary}
+
 
 
 ## Undergraduate Education

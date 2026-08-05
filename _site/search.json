@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Roan James",
@@ -11,7 +18,7 @@
     "href": "index.html#current-research",
     "title": "Roan James",
     "section": "Current Research",
-    "text": "Current Research\nMy thesis studies scaling limits of directed polymer models and their connections with stochastic partial differential equations.\nCurrent State of Thesis"
+    "text": "Current Research\nMy thesis studies scaling limits of directed polymer models and their connections with stochastic partial differential equations."
   },
   {
     "objectID": "index.html#undergraduate-education",
@@ -33,12 +40,5 @@
     "title": "Roan James",
     "section": "Contact",
     "text": "Contact\nEmail: Rjames15@ur.rochester.edu\nOffice: Hylan Building 1104\nDepartment: Department of Mathematics, University of Rochester"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   }
 ]
