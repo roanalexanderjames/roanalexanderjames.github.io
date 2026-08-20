@@ -17,7 +17,9 @@ I am a PhD student in the Department of Mathematics at the University of Rochest
 
 My research lies in stochastic analysis, with a particular focus on directed polymers in intermediate disorder and the stochastic heat equation.
 
-You can find my CV here [CV](files/CV.pdf){.btn .btn-outline-primary}
+You can find my CV here [CV](files/CV.pdf){.btn .btn-outline-primary}.
+
+You can also find an academic CV here [Academic-CV](files/ACV.pdf){.btn .btn-outline-primary}.
 
 :::
 
@@ -26,8 +28,6 @@ You can find my CV here [CV](files/CV.pdf){.btn .btn-outline-primary}
 ## Current Research
 
 My thesis studies scaling limits of directed polymer models and their connections with stochastic partial differential equations.
-
-
 
 
 ## Undergraduate Education
@@ -52,6 +52,6 @@ You can also view a broader document of all the talks I have given so for here  
 
 
 
-**Email:** [Rjames15@ur.rochester.edu](mailto:Rjames15@ur.rochester.edu)  
+**Email:** [Rjames15 at ur.rochester.edu](mailto:Rjames15@ur.rochester.edu)  
 **Office:** Hylan Building 1104  
 **Department:** Department of Mathematics, University of Rochester
