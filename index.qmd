@@ -38,17 +38,10 @@ I received a MMath in Mathematics from the University of Sheffield, graduating w
 [T. M. Flett Prize](files/tm.pdf){.btn .btn-outline-primary}
 
 
-## Teaching, Conferences and Service
-
-During my time at the University of Rochester, I have served as a teaching assistant and instructor for a range of undergraduate and graduate courses, and have attended several conferences and summer schools in probability and stochastic analysis.
-
-A summary of my teaching experience, conference participation, and travel support is available below.
-
-[Teaching and Conferences](files/cat.pdf){.btn .btn-outline-primary}
 
 I am the current AMS Chapter president for the gradute student group at the University Of Rochester. I run the Gradute student semminars; you can find the 2026 timetable here [GSS-2026](GSS2026.pdf){.btn .btn-outline-primary}. 
 
-You can also view a broader document of all the talks I have given so for here  [Talks](files/Talks.pdf){.btn .btn-outline-primary} and extra circulum activities here [Service and Leadership](files/service_and_leadership.pdf){.btn .btn-outline-primary}
+
 
 
 

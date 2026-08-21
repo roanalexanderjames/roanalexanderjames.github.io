@@ -1,0 +1,11 @@
+## Teaching, Service and Leadership
+
+During my time at the University of Rochester, I have served as a teaching assistant and instructor for a range of undergraduate and graduate courses,
+
+You can view the courses I have taught along with my teaching evalautions here: 
+
+[Teaching](files/Teaching.pdf){.btn .btn-outline-primary}
+
+I also have additional responsibilities within the department, including mentoring, service, and graduate-student leadership. You can find more information here:
+
+[Service and Leadership](files/service_and_leadership.pdf){.btn .btn-outline-primary}
