@@ -42,6 +42,11 @@ I received a MMath in Mathematics from the University of Sheffield, graduating w
 I am the current AMS Chapter president for the maths graduate student group at the University Of Rochester. I run the Graduate student seminars; you will soon be able to find the fall 2026 timetable here : [GSS-2026](GSS2026.pdf){.btn .btn-outline-primary}
 
 
+### PAM-Driven Volatility and Option Pricing
+
+A computational notebook exploring a toy connection between the parabolic Anderson model / stochastic heat equation and volatility modelling in option pricing.
+
+[View notebook](files/projects/pam_volatility_option_pricing.html)
 
 
 
