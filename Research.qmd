@@ -1,0 +1,17 @@
+---
+title: "Research"
+---
+
+My research is in probability and stochastic analysis, with a particular focus on directed polymers, stochastic partial differential equations, and the KPZ universality class.
+
+## Research Interests
+
+- Directed polymers in random environments
+- Stochastic heat equation and Parabolic Anderson model
+- KPZ universality
+- Intermediate disorder for directed polymers
+- Wiener chaos and stochastic analysis
+
+You can find the talk and confrences I have attended here:
+
+[Talks and Confrences](files/Confrences.pdf){.btn .btn-outline-primary}
