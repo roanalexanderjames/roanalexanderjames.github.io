@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - files/thesis.pdf
+    - images/**
 
 website:
   title: "Roan James"
