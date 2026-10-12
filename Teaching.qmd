@@ -1,11 +1,19 @@
-## Teaching, Service and Leadership
+---
+title: "Teaching"
+---
 
-During my time at the University of Rochester, I have served as a teaching assistant and instructor for a range of undergraduate and graduate courses,
+## Teaching
 
-You can view the courses I have taught along with my teaching evalautions here: 
+During my time at the University of Rochester, I have been instructor of record in five terms, including Calculus II this semester, Linear Algebra and Differential Equations (online), and Introduction to Probability (online). I have also led workshops for calculus courses over four semesters, where students rated my teaching 4.57/5 overall (58 respondents).
+
+This semester, I am also leading an undergraduate reading course on the combinatorics of the simple random walk.
+
+You can view the courses I have taught along with my teaching evaluations here:
 
 [Teaching](files/Teaching.pdf){.btn .btn-outline-primary}
 
-I also have additional responsibilities within the department, including mentoring, service, and graduate-student leadership. You can find more information here:
+## Service and Leadership
+
+I also have responsibilities within the department, including mentoring, service, and graduate student leadership. I am the president of the AMS Graduate Student Chapter, organise the Graduate Student Seminar, and mentor an undergraduate research project on directed polymers. You can find more information here:
 
 [Service and Leadership](files/service_and_leadership.pdf){.btn .btn-outline-primary}

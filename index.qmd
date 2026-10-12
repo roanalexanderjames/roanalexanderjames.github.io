@@ -1,5 +1,6 @@
 ---
 title: "Roan James"
+pagetitle: "Roan James – Mathematics, University of Rochester"
 page-layout: full
 ---
 
@@ -13,13 +14,12 @@ page-layout: full
 
 **University of Rochester**
 
-I am a PhD student in the Department of Mathematics at the University of Rochester, supervised by [Professor Arjun Krishnan](https://shirleyarjun.net/homepage/).
+I am a PhD student in the Department of Mathematics at the University of Rochester, supervised by [Professor Arjun Krishnan](https://shirleyarjun.net/homepage/). I expect to complete my PhD in May 2027 and am currently on the job market for postdoctoral and teaching positions.
 
 My research lies in stochastic analysis, with a particular focus on directed polymers in intermediate disorder and the stochastic heat equation.
 
-You can find my CV here: [CV](files/CV.pdf){.btn .btn-outline-primary}
-
-You can also find an academic CV here: [Academic-CV](files/ACV.pdf){.btn .btn-outline-primary}
+[CV](files/CV.pdf){.btn .btn-outline-primary}
+[Academic CV](files/ACV.pdf){.btn .btn-outline-primary}
 
 :::
 
@@ -29,27 +29,31 @@ You can also find an academic CV here: [Academic-CV](files/ACV.pdf){.btn .btn-ou
 
 My thesis studies scaling limits of directed polymer models and their connections with stochastic partial differential equations.
 
+**Preprint:** R. A. James and A. Krishnan, *Directed Polymers in an External Field at Intermediate Disorder*. In preparation; expected on arXiv in November 2026.
 
 ## Undergraduate Education
 
-I received a MMath in Mathematics from the University of Sheffield, graduating with First Class Honours. During my final year, I was awarded the **T. M. Flett Prize** in recognition of achieving the highest marks in Pure Mathematics.
+I received an MMath in Mathematics from the University of Sheffield, graduating with First Class Honours. During my final year, I was awarded the **T. M. Flett Prize** for achieving the highest marks in Pure Mathematics.
 
 [Degree Certificate](files/deg.pdf){.btn .btn-outline-primary}
 [T. M. Flett Prize](files/tm.pdf){.btn .btn-outline-primary}
 
+## Service
+
+I am the president of the AMS Graduate Student Chapter at the University of Rochester. This semester, the chapter has held panel discussions on careers for mathematics graduate students and on the future of mathematics with AI.
 
 
-I am the current AMS Chapter president for the maths graduate student group at the University Of Rochester. I run the Graduate student seminars; you will soon be able to find the fall 2026 timetable here : [GSS-2026](GSS2026.pdf){.btn .btn-outline-primary}
 
+## Projects
 
 ### PAM-Driven Volatility and Option Pricing
 
-A computational notebook exploring a toy connection between the parabolic Anderson model / stochastic heat equation and volatility modelling in option pricing.
+A computational notebook exploring a toy connection between the parabolic Anderson model (stochastic heat equation) and volatility modelling in option pricing.
 
-[View notebook](files/projects/pam_volatility_option_pricing.html)
+[View notebook](files/projects/pam_volatility_option_pricing.html){.btn .btn-outline-primary}
 
+## Contact
 
-
-**Email:** [Rjames15 at ur.rochester.edu](mailto:Rjames15@ur.rochester.edu)  
+**Email:** [rjames15@ur.rochester.edu](mailto:rjames15@ur.rochester.edu)  
 **Office:** Hylan Building 1104  
 **Department:** Department of Mathematics, University of Rochester

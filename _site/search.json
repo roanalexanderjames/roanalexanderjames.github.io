@@ -23,9 +23,9 @@
   {
     "objectID": "Teaching.html",
     "href": "Teaching.html",
-    "title": "Roan James",
+    "title": "Teaching",
     "section": "",
-    "text": "During my time at the University of Rochester, I have served as a teaching assistant and instructor for a range of undergraduate and graduate courses,\nYou can view the courses I have taught along with my teaching evalautions here:\nTeaching\nI also have additional responsibilities within the department, including mentoring, service, and graduate-student leadership. You can find more information here:\nService and Leadership"
+    "text": "During my time at the University of Rochester, I have been instructor of record in five terms, including Calculus II this semester, Linear Algebra and Differential Equations (online), and Introduction to Probability (online). I have also led workshops for calculus courses over four semesters, where students rated my teaching 4.57/5 overall (58 respondents).\nThis semester, I am also leading an undergraduate reading course on the combinatorics of the simple random walk.\nYou can view the courses I have taught along with my teaching evaluations here:\nTeaching"
   },
   {
     "objectID": "Teaching.html#teaching-service-and-leadership",
@@ -39,20 +39,55 @@
     "href": "index.html",
     "title": "Roan James",
     "section": "",
-    "text": "University of Rochester\nI am a PhD student in the Department of Mathematics at the University of Rochester, supervised by Professor Arjun Krishnan.\nMy research lies in stochastic analysis, with a particular focus on directed polymers in intermediate disorder and the stochastic heat equation.\nYou can find my CV here: CV\nYou can also find an academic CV here: Academic-CV"
+    "text": "University of Rochester\nI am a PhD student in the Department of Mathematics at the University of Rochester, supervised by Professor Arjun Krishnan. I expect to complete my PhD in May 2027 and am currently on the job market for postdoctoral and teaching positions.\nMy research lies in stochastic analysis, with a particular focus on directed polymers in intermediate disorder and the stochastic heat equation.\nCV Academic CV"
   },
   {
     "objectID": "index.html#current-research",
     "href": "index.html#current-research",
     "title": "Roan James",
     "section": "Current Research",
-    "text": "Current Research\nMy thesis studies scaling limits of directed polymer models and their connections with stochastic partial differential equations."
+    "text": "Current Research\nMy thesis studies scaling limits of directed polymer models and their connections with stochastic partial differential equations.\nPreprint: R. A. James and A. Krishnan, Directed Polymers in an External Field at Intermediate Disorder. In preparation; expected on arXiv in November 2026."
   },
   {
     "objectID": "index.html#undergraduate-education",
     "href": "index.html#undergraduate-education",
     "title": "Roan James",
     "section": "Undergraduate Education",
-    "text": "Undergraduate Education\nI received a MMath in Mathematics from the University of Sheffield, graduating with First Class Honours. During my final year, I was awarded the T. M. Flett Prize in recognition of achieving the highest marks in Pure Mathematics.\nDegree Certificate T. M. Flett Prize\nI am the current AMS Chapter president for the maths graduate student group at the University Of Rochester. I run the Graduate student seminars; you will soon be able to find the fall 2026 timetable here : GSS-2026\n\nPAM-Driven Volatility and Option Pricing\nA computational notebook exploring a toy connection between the parabolic Anderson model / stochastic heat equation and volatility modelling in option pricing.\nView notebook\nEmail: Rjames15 at ur.rochester.edu\nOffice: Hylan Building 1104\nDepartment: Department of Mathematics, University of Rochester"
+    "text": "Undergraduate Education\nI received an MMath in Mathematics from the University of Sheffield, graduating with First Class Honours. During my final year, I was awarded the T. M. Flett Prize for achieving the highest marks in Pure Mathematics.\nDegree Certificate T. M. Flett Prize"
+  },
+  {
+    "objectID": "index.html#service",
+    "href": "index.html#service",
+    "title": "Roan James",
+    "section": "Service",
+    "text": "Service\nI am the president of the AMS Graduate Student Chapter at the University of Rochester. This semester, the chapter has held panel discussions on careers for mathematics graduate students and on the future of mathematics with AI."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Roan James",
+    "section": "Projects",
+    "text": "Projects\n\nPAM-Driven Volatility and Option Pricing\nA computational notebook exploring a toy connection between the parabolic Anderson model (stochastic heat equation) and volatility modelling in option pricing.\nView notebook"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Roan James",
+    "section": "Contact",
+    "text": "Contact\nEmail: rjames15@ur.rochester.edu\nOffice: Hylan Building 1104\nDepartment: Department of Mathematics, University of Rochester"
+  },
+  {
+    "objectID": "Teaching.html#teaching",
+    "href": "Teaching.html#teaching",
+    "title": "Teaching",
+    "section": "",
+    "text": "During my time at the University of Rochester, I have been instructor of record in five terms, including Calculus II this semester, Linear Algebra and Differential Equations (online), and Introduction to Probability (online). I have also led workshops for calculus courses over four semesters, where students rated my teaching 4.57/5 overall (58 respondents).\nThis semester, I am also leading an undergraduate reading course on the combinatorics of the simple random walk.\nYou can view the courses I have taught along with my teaching evaluations here:\nTeaching"
+  },
+  {
+    "objectID": "Teaching.html#service-and-leadership",
+    "href": "Teaching.html#service-and-leadership",
+    "title": "Teaching",
+    "section": "Service and Leadership",
+    "text": "Service and Leadership\nI also have responsibilities within the department, including mentoring, service, and graduate student leadership. I am the president of the AMS Graduate Student Chapter, organise the Graduate Student Seminar, and mentor an undergraduate research project on directed polymers. You can find more information here:\nService and Leadership"
   }
 ]
