@@ -14,7 +14,7 @@ page-layout: full
 
 **University of Rochester**
 
-I am a PhD student in the Department of Mathematics at the University of Rochester, supervised by [Professor Arjun Krishnan](https://shirleyarjun.net/homepage/). I expect to complete my PhD in May 2027 and am currently on the job market for postdoctoral and teaching positions.
+I am a PhD student in the Department of Mathematics at the University of Rochester, supervised by [Professor Arjun Krishnan](https://shirleyarjun.net/homepage/). I expect to complete my PhD in May 2027 and am currently on the job market for postdoctoral, industry and teaching positions.
 
 My research lies in stochastic analysis, with a particular focus on directed polymers in intermediate disorder and the stochastic heat equation.
 
